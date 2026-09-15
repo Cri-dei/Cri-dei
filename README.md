@@ -28,7 +28,7 @@ I contribute to the **ECMWF Copernicus Climate Change Service (C3S)**, supportin
 Development of statistical frameworks to quantify how climate change modifies the probability of **co-occurring and repeated extreme events**, combining multivariate dependence modelling with temporal attribution approaches. Collaboration with World Weather Attribution.
 
 **Climate impacts on European transport infrastructure**
-Assessment of present and future exposure of the Trans-European Transport Network (TEN-T) to **heatwaves, droughts, floods, and wildfires** under different climate scenarios. Collaboration with DG-Move, European Commission.
+Large-scale climate-impact assessment using ISIMIP climate-impact data and climate model projections to investigate the exposure of the Trans-European Transport Network (TEN-T) to heatwaves, droughts, river floods, and wildfires. The analysis combines extreme-event indicators, multiple climate scenarios, and spatial infrastructure data to assess how climate risks evolve under future warming and how climate mitigation can reduce exposure. Collaboration with DG-Move, European Commission.
 → *Natural Hazards and Earth System Sciences* (2026)
 
 **Asymmetric dependence in hydrological extremes**
