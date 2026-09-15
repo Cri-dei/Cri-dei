@@ -32,7 +32,7 @@ Large-scale climate-impact assessment using ISIMIP climate-impact data and clima
 → *Natural Hazards and Earth System Sciences* (2026)
 
 **Asymmetric dependence in hydrological extremes**
-Development of **asymmetric tail Kendall's τ**, a statistical measure for identifying directional dependence between extreme events.
+Development of **asymmetric tail Kendall's τ**, a new statistical measure for identifying directional dependence between extreme events.
 → *Water Resources Research* (2023)
 DOI: 10.1029/2023WR034512
 
