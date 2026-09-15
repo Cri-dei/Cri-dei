@@ -46,6 +46,18 @@ Evaluation of Copernicus satellite altimetry for water-level monitoring in Itali
 → *Remote Sensing* (2021)
 DOI: 10.3390/rs13214456
 
+### 🤝 Collaborations & contributions
+
+* 🌾 **[Identify crop-yield drivers](https://github.com/jo-vogel/Identify_crop_yield_drivers)** — Contributor to a collaborative project investigating climatic drivers of crop-yield variability and extremes, developed within the Compound Events community.
+
+* 🎓 **[Compound Events Summer School](https://github.com/jo-vogel/como_training_school)** — Contributor to collaborative research activities on compound climate and weather extremes.
+  
+* 🛰️ **[OpenSense](https://github.com/OpenSenseAction/OpenSense_workshop_git_hub)** — Contributor to the OpenSense collaborative GitHub workshop and activities related to open and reproducible Earth observation research.
+  
+* 🌍 **ECMWF / Copernicus Climate Change Service (C3S)** — Contributor to the quality assessment and quality control of C3S climate datasets.
+
+
+
 ### 💻 Methods & tools
 
 `R` · `Python` · `Extreme Value Theory` · `Statistical Modelling` · `Copulas` · `Event Attribution` · `Climate Models` · `Earth Observation` · `GIS`
